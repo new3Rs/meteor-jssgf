@@ -1,6 +1,9 @@
 Package.describe({
     name: "new3rs:jssgf",
-    summary: "jssgf - SGF parser"
+    version: '0.2.0',
+    summary: "jssgf - SGF parser",
+    git: 'https://github.com/new3Rs/meteor-jssgf.git',
+    documentation: 'README.md'
 });
 
 Package.onUse(function (api) {
