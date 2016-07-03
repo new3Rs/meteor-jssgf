@@ -1,10 +1,9 @@
-# jssgf package for Meteor
+# [DEPRECATED] jssgf package for Meteor
 This package is a importer of [jssgf](https://github.com/y-ich/jssgf).
+Since Meteor 1.3 or later supports npm, you can use jssgf package in npm.
 
 ## Installation
 
 ```sh
-mkdir packages
-git submodule add https://github.com/new3Rs/meteor-jssgf.git packages/jssgf
 meteor add new3rs:jssgf
 ```
